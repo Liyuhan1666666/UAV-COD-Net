@@ -73,15 +73,37 @@ python main.py \
   --test-only
 ```
 
+## 论文细节
+
+### UAV-COD-15K数据集
+
+![](./assets/UAV-COD-15K-1.png)
+
+![](./assets/UAV-COD-15K-2.png)
+
+### 方法
+
+![](./assets/frame.png)
+
+![](./assets/module1.png)
+
+![](./assets/module2.png)
+
+### 实验
+
+![](./assets/experiment.png)
+
+![](./assets/experiment_qua.png)
+
 ## 引用
 
 如果本项目对您的研究有帮助，请引用对应论文：
 
 ```bibtex
 @article{uavhidenet,
-  title   = {待补充},
-  author  = {待补充},
-  journal = {计算机学报},
+  title   = {无人机视角下隐藏目标检测},
+  author  = {鄢杰斌，蒋佳，李昱翰，祝文涛，侯敬文，姜文晖，方玉明},
+  journal = {},
   year    = {2026}
 }
 ```
