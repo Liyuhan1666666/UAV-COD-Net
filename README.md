@@ -1,6 +1,6 @@
-# UAV-HideNet
-Code for UAV-HideNet（无人机视角下隐藏目标检测）
-本仓库提供 UAV-HideNet 的 PyTorch 实现代码
+# UAV-COD-Net
+Code for UAV-COD-Net（无人机视角下隐藏目标检测）
+本仓库提供 UAV-COD-Net 的 PyTorch 实现代码
 > 论文信息、项目主页、预训练权重和数据集下载链接将在发布时补充。
 
 
@@ -13,8 +13,8 @@ Code for UAV-HideNet（无人机视角下隐藏目标检测）
 建议使用 Conda 创建独立环境：
 
 ```bash
-conda create -n uavhidenet python=3.8
-conda activate uavhidenet
+conda create -n uavcod python=3.8
+conda activate uavcod
 pip install -r requirements.txt
 ```
 
@@ -77,30 +77,44 @@ python main.py \
 
 ### UAV-COD-15K数据集
 
-![](./assets/UAV-COD-15K-1.png)
+<div align="center">
+  <img src="./assets/UAV-COD-15K-1.png" width="60%" />
+</div>
 
-![](./assets/UAV-COD-15K-2.png)
+<div align="center">
+  <img src="./assets/UAV-COD-15K-2.png" width="60%" />
+</div>
 
 ### 方法
 
-![](./assets/frame.png)
+<div align="center">
+  <img src="./assets/frame.png" width="60%" />
+</div>
 
-![](./assets/module1.png)
+<div align="center">
+  <img src="./assets/module1.png" width="60%" />
+</div>
 
-![](./assets/module2.png)
+<div align="center">
+  <img src="./assets/module2.png" width="60%" />
+</div>
 
 ### 实验
 
-![](./assets/experiment.png)
+<div align="center">
+  <img src="./assets/experiment.png" width="60%" />
+</div>
 
-![](./assets/experiment_qua.png)
+<div align="center">
+  <img src="./assets/experiment_qua.png" width="60%" />
+</div>
 
 ## 引用
 
 如果本项目对您的研究有帮助，请引用对应论文：
 
 ```bibtex
-@article{uavhidenet,
+@article{UAV-COD-Net,
   title   = {无人机视角下隐藏目标检测},
   author  = {鄢杰斌，蒋佳，李昱翰，祝文涛，侯敬文，姜文晖，方玉明},
   journal = {},
