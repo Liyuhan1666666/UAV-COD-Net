@@ -78,35 +78,35 @@ python main.py \
 ### UAV-COD-15K数据集
 
 <div align="center">
-  <img src="./assets/UAV-COD-15K-1.png" width="60%" />
+  <img src="./assets/UAV-COD-15K-1.png" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/UAV-COD-15K-2.png" width="60%" />
+  <img src="./assets/UAV-COD-15K-2.png" width="100%" />
 </div>
 
 ### 方法
 
 <div align="center">
-  <img src="./assets/frame.png" width="60%" />
+  <img src="./assets/frame.png" width="80%" />
 </div>
 
 <div align="center">
-  <img src="./assets/module1.png" width="60%" />
+  <img src="./assets/module1.png" width="80%" />
 </div>
 
 <div align="center">
-  <img src="./assets/module2.png" width="60%" />
+  <img src="./assets/module2.png" width="30%" />
 </div>
 
 ### 实验
 
 <div align="center">
-  <img src="./assets/experiment.png" width="60%" />
+  <img src="./assets/experiment.png" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/experiment_qua.png" width="60%" />
+  <img src="./assets/experiment_qua.png" width="100%" />
 </div>
 
 ## 引用
