@@ -8,7 +8,7 @@ Code for UAV-COD-Net (无人机视角下隐藏目标检测)。
 
 | Weights                                                                                                                           | Results                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1/checkpoints_final.zip)        | [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1/Results.zip) |
+| [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/download/v0.0.1/checkpoints_final.zip)        | [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/download/v0.0.1/Results.zip) |
 
 ## 环境要求
 
