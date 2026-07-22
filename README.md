@@ -4,12 +4,6 @@ Code for UAV-COD-Net (无人机视角下隐藏目标检测)。
 
 本仓库提供 UAV-COD-Net 的 PyTorch 实现代码。
 
-## 预训练权重与结果
-
-| Weights                                                                                                                           | Results                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/download/v0.0.1/checkpoints_final.zip)        | [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/download/v0.0.1/Results.zip) |
-
 ## 环境要求
 
 - Python 3.8
@@ -78,6 +72,13 @@ python main.py \
   --load-from /path/to/model.pth \
   --test-only
 ```
+
+### 预训练权重与结果
+
+预训练模型权重和完整实验结果已发布在:
+| Weights                                                                                                                           | Results                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/download/v0.0.1/checkpoint_final.zip)        | [GitHub Release Link](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/download/v0.0.1/Results.zip) |
 
 ## 论文细节
 
