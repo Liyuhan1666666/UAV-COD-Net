@@ -1,8 +1,12 @@
 # UAV-COD-Net
-Code for UAV-COD-Net（无人机视角下隐藏目标检测）
-本仓库提供 UAV-COD-Net 的 PyTorch 实现代码
-> 论文信息、项目主页、预训练权重和数据集下载链接将在发布时补充。
 
+Code for UAV-COD-Net (无人机视角下隐藏目标检测)。
+
+本仓库提供 UAV-COD-Net 的 PyTorch 实现代码。
+
+## 预训练权重与结果
+
+预训练模型权重和完整实验结果已发布在 [v0.0.1 Release](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1)。
 
 ## 环境要求
 
@@ -63,7 +67,7 @@ python main.py \
 
 ## 测试
 
-使用训练好的权重进行测试：
+从 [v0.0.1 Release](https://github.com/Liyuhan1666666/UAV-COD-Net/releases/tag/v0.0.1) 下载模型权重后，执行：
 
 ```bash
 python main.py \
@@ -75,38 +79,38 @@ python main.py \
 
 ## 论文细节
 
-### UAV-COD-15K数据集
+### UAV-COD-15K 数据集
 
 <div align="center">
-  <img src="./assets/UAV-COD-15K-1.png" width="100%" />
+  <img src="./assets/UAV-COD-15K-1.png" width="100%" alt="UAV-COD-15K dataset overview" />
 </div>
 
 <div align="center">
-  <img src="./assets/UAV-COD-15K-2.png" width="100%" />
+  <img src="./assets/UAV-COD-15K-2.png" width="100%" alt="UAV-COD-15K dataset examples" />
 </div>
 
 ### 方法
 
 <div align="center">
-  <img src="./assets/frame.png" width="80%" />
+  <img src="./assets/frame.png" width="80%" alt="UAV-COD-Net framework" />
 </div>
 
 <div align="center">
-  <img src="./assets/module1.png" width="80%" />
+  <img src="./assets/module1.png" width="80%" alt="Module 1" />
 </div>
 
 <div align="center">
-  <img src="./assets/module2.png" width="30%" />
+  <img src="./assets/module2.png" width="30%" alt="Module 2" />
 </div>
 
 ### 实验
 
 <div align="center">
-  <img src="./assets/experiment.png" width="100%" />
+  <img src="./assets/experiment.png" width="100%" alt="Quantitative results" />
 </div>
 
 <div align="center">
-  <img src="./assets/experiment_qua.png" width="100%" />
+  <img src="./assets/experiment_qua.png" width="100%" alt="Qualitative results" />
 </div>
 
 ## 引用
@@ -114,10 +118,10 @@ python main.py \
 如果本项目对您的研究有帮助，请引用对应论文：
 
 ```bibtex
-@article{UAV-COD-Net,
+@article{UAVCODNet,
   title   = {无人机视角下隐藏目标检测},
-  author  = {鄢杰斌，蒋佳，李昱翰，祝文涛，侯敬文，姜文晖，方玉明},
-  journal = {},
+  author  = {鄢杰斌 and 蒋佳 and 李昱翰 and 祝文涛 and 侯敬文 and 姜文晖 and 方玉明},
+  journal = {待补充},
   year    = {2026}
 }
 ```
