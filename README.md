@@ -20,7 +20,8 @@ pip install -r requirements.txt
 
 ## 数据集准备
 
-数据集下载链接：https://pan.quark.cn/s/254e8421d707?pwd=mfRi
+数据集下载链接：https://pan.quark.cn/s/b720e0d58de4
+提取码：fz2A
 
 下载并解压数据集后，请保证训练集与测试集分别包含以下目录：
 
